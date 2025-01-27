@@ -1,6 +1,6 @@
 # 1st_Sem_GecJamui
-Program01: Write a program in C language to print "Hello World".\n
-Program02: Write a program in c language to print Hello Gec Jamui, where each word is separated by two blank lines.\n
+Program01: Write a program in C language to print "Hello World".<br>
+Program02: Write a program in c language to print Hello Gec Jamui, where each word is separated by two blank lines.<br>
 Program03: 
 Program04: 
 Program05: 

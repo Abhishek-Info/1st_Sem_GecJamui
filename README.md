@@ -1,16 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>C Programs List</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; background-color: #f4f4f9; }
-        h1 { color: #333; }
-        ul { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        li { margin-bottom: 10px; }
-        li strong { color: #2c3e50; }
-    </style>
+   
 </head>
 <body>
     <h1>C Programs List</h1>

@@ -1,23 +1,13 @@
 #include <stdio.h>
 int main() {
-    int n, a = 0, b = 1, next, i = 0;
-
-    printf("Enter the number of terms: ");
-    scanf("%d", &n);
-
-    printf("Fibonacci Series: ");
-
-    while (i < n) {
-        if (i <= 1)
-            next = i;
-        else {
-            next = a + b;
-            a = b;
-            b = next;
-        }
+    int n = 150, a = 1, b = 1, next;
+    printf("Fibonacci Series: %d %d ", a, b);
+    next = a + b;
+    while (next <= n) {
         printf("%d ", next);
-        i++;
+        a = b;
+        b = next;
+        next = a + b;
     }
-
     return 0;
 }

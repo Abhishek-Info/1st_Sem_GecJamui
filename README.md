@@ -1,45 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   
 </head>
 <body>
-    <h1>C Programs List</h1>
+    <h1>C Programming Practice Questions</h1>
     <ul>
-        <li><strong>Program01:</strong> Print "Hello World".</li>
-        <li><strong>Program02:</strong> Print "Hello Gec Jamui" with two blank lines between words.</li>
-        <li><strong>Program03:</strong> Print "Hello Gec Jamui" diagonally.</li>
-        <li><strong>Program04:</strong> Sum of two integers.</li>
-        <li><strong>Program05:</strong> Subtraction of two integers.</li>
-        <li><strong>Program06:</strong> Division of two floating-point numbers.</li>
-        <li><strong>Program07:</strong> Division of two numbers.</li>
-        <li><strong>Program08:</strong> Find the greatest of two numbers.</li>
-        <li><strong>Program09:</strong> Find the smallest of two numbers.</li>
-        <li><strong>Program10:</strong> Check even or odd number.</li>
-        <li><strong>Program11:</strong> Find the greatest of three numbers.</li>
-        <li><strong>Program12:</strong> Find the smallest of four numbers.</li>
-        <li><strong>Program13:</strong> Find the perimeter and area of a rectangle.</li>
-        <li><strong>Program14_a:</strong> Swap two numbers using a third variable.</li>
-        <li><strong>Program14_b:</strong> Swap two numbers without using a third variable.</li>
-        <li><strong>Program15_a:</strong> Print even and odd numbers (1 to 50) using a for loop.</li>
-        <li><strong>Program15_b:</strong> Print even and odd numbers (1 to 50) using a while loop.</li>
-        <li><strong>Program15_c:</strong> Print even and odd numbers (1 to 50) using a do-while loop.</li>
-        <li><strong>Program16:</strong> Check prime number.</li>
-        <li><strong>Program17:</strong> Print Fibonacci series up to 150.</li>
-        <li><strong>Program18:</strong> Reverse a three-digit number.</li>
-        <li><strong>Program19:</strong> Check prime number (alternate version).</li>
-        <li><strong>Program20:</strong> Update later.</li>
-        <li><strong>Program21:</strong> Calculate total price of 10 books with a 20% discount.</li>
-        <li><strong>Program22:</strong> Print a right-angled triangle pattern.</li>
-        <li><strong>Program23:</strong> Print an inverted right-angled triangle pattern.</li>
-        <li><strong>Program24:</strong> Print a pyramid pattern.</li>
-        <li><strong>Program25:</strong> Print a butterfly pattern.</li>
-        <li><strong>Program26:</strong> Print an element of an integer array.</li>
-        <li><strong>Program27:</strong> Print a 3x3 matrix.</li>
-        <li><strong>Program28:</strong> Add two 3x3 matrices.</li>
-        <li><strong>Program29:</strong> Print "Hello World" using a function.</li>
-        <li><strong>Program30:</strong> Sum of two numbers using a function with a return value.</li>
-        <li><strong>Program31:</strong> Find the factorial of a number using recursion.</li>
+        <li>Program01: Write a program in C language to print "Hello World".</li>
+        <li>Program02: Write a program in C language to print Hello Gec Jamui, where each word is separated by two blank lines.</li>
+        <li>Program03: Write a program in C language to print Hello Gec Jamui, whare each word is separeted by diagonally.</li>
+        <li>Program04: Write a C program that takes two integers as input from the user, calculates their summation, and displays the result.</li>
+        <li>Program05: Write a C program to subtract two integers and display the result.</li>
+        <li>Program06: Write a C program to divide two floating-point numbers and display the result.</li>
+        <li>Program07: Write a C program to divide two numbers and print the result.</li>
+        <li>Program08: Write a C program to find the greatest of two numbers entered by the user.</li>
+        <li>Program09: Write a C program to find the smallest of two numbers.</li>
+        <li>Program10: Write a C program to check whether a number is even or odd.</li>
+        <li>Program11: Write a C program to find the greatest of three numbers.</li>
+        <li>Program12: Write a C program to find the smallest of four numbers.</li>
+        <li>Program13: Write a C program to find the perimeter and area of a rectangle.</li>
+        <li>Program14_a: Write a C program to swap two numbers using a third variable.</li>
+        <li>Program14_b: Write a C program to swap two numbers without using a third variable.</li>
+        <li>Program15_a: Write a C program to print all even and odd numbers from 1 to 50 using a for loop.</li>
+        <li>Program15_b: Write a C program to print all even and odd numbers from 1 to 50 using a while loop.</li>
+        <li>Program15_c: Write a C program to print all even and odd numbers from 1 to 50 using a do-while loop.</li>
+        <li>Program16: Write a C program to check whether a number is prime or not.</li>
+        <li>Program17: Write a C program to print the Fibonacci series up to 150.</li>
+        <li>Program18: Write a C program to reverse a three-digit number.</li>
+        <li>Program19: Write a C program to check whether a number is prime or not.</li>
+        <li>Program20: Update later.</li>
+        <li>Program21: Write a C program to calculate the total price of 10 books, apply a 20% discount, and display the final amount to be paid.</li>
+        <li>Program22: Write a C program to print a right-angled triangle pattern using asterisks.</li>
+        <li>Program23: Write a C program to print an inverted right-angled triangle pattern using asterisks.</li>
+        <li>Program24: Write a C program to print a pyramid pattern using asterisks.</li>
+        <li>Program25: Write a C program to print a butterfly pattern using asterisks.</li>
+        <li>Program26: Write a C program to print an element of an integer array.</li>
+        <li>Program27: Write a C program to print a 3x3 matrix in array.</li>
+        <li>Program28: Write a C program to add two 3x3 matrices in array.</li>
+        <li>Program29: Write a C program to print "Hello World" using a function.</li>
+        <li>Program30: Write a C program to find the sum of two numbers using a function with a return value.</li>
+        <li>Program31: Write a C program to find the factorial of a number using recursion.</li>
     </ul>
 </body>
 </html>
